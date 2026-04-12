@@ -42,7 +42,7 @@
       [
         "expo-font",
         {
-          "donts": [
+          "fonts": [
             "./assets/fonts/PlusJakartaSans-Bold.ttf",
             "./assets/fonts/PlusJakartaSans-Regular.ttf",
             "./assets/fonts/PlusJakartaSans-SemiBold.ttf",
